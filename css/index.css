@@ -37,8 +37,21 @@
     font-size: 11px;
     background: url("../images/bg_title_box_banner.png") center center no-repeat
 }
-
-
+.name{
+    font-weight: bold;
+    text-align: left;
+    padding: 0 0 11px;
+}
+.title1{
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 13px;
+}
+._active{
+    border-color: #007bff;
+    z-index: 2;
+    color: #fff;
+    font-weight: bold;
+}
 
 
 .footer1 {
