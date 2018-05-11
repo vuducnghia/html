@@ -1,0 +1,39 @@
+.menu{
+    background-color: #243a51;
+}
+
+
+.title{
+    border-bottom: 2px solid #0c4da2;
+    font-size: 25px;
+    line-height: 30px;
+    bottom: -2px;
+    padding-bottom: 7px;
+    color: #666
+}
+
+.menu-right{
+    font-weight: bold;
+}
+.sub-menu-right{
+    font-size: small;
+}
+a {
+    color: #666;
+    text-decoration: none;
+}
+a:hover{
+    color: #333;
+    font-weight: bold;
+    text-decoration: none;
+}
+.content{
+    padding: 30px 0 10px;
+    text-align: center
+}
+.title-box{
+    text-align: center;
+    color: #acacac;
+    font-size: 11px;
+    background: url("../images/bg_title_box_banner.png") center center no-repeat
+}
