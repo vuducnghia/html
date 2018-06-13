@@ -65,8 +65,27 @@
     font-size: 14px;
     line-height: 20px;
 }
-
-
+.btnSearch{
+    margin-left: 10px;
+    float: left;
+    width: 45px;
+    height: 38px;
+    background-color: #044289;
+    color: #FFF;
+    border-width: 0px;
+    border-radius: 4px;
+}
+.carousel-caption-custom{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    z-index: 10;
+    height: 180px;
+    width: 400px;
+    color: #fff;
+    text-align: center;
+    background-color: rgba(24,65,117,0.6);
+}
 
 
 
